@@ -10,18 +10,18 @@ This project includes:
 
 ## Project Structure
 
-penguin_analyzer/
-├── penguin_analyzer/
-│ ├── init.py
-│ ├── data_loader.py
-│ └── analyzer.py
-├── tests/
-│ └── test_penguin_analyzer.py
-├── app.py ← Streamlit dashboard
-├── main.py ← Script to run basic analysis
-├── requirements.txt
-├── README.md
-└── .gitignore
+penguin_analyzer/ <br>
+├── penguin_analyzer/ <br>
+│ ├── init.py <br>
+│ ├── data_loader.py <br>
+│ └── analyzer.py <br>
+├── tests/ <br>
+│ └── test_penguin_analyzer.py <br>
+├── app.py ← Streamlit dashboard <br>
+├── main.py ← Script to run basic analysis <br>
+├── requirements.txt <br>
+├── README.md <br>
+└── .gitignore <br>
 
 ### Streamlit Dashboard
 This dashboard lets you:
