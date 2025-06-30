@@ -6,7 +6,7 @@ This project includes:
 - 📊 Data analysis with Pandas
 - 🧪 Unit testing with Pytest
 - 🎨 Interactive visualization using Streamlit
-- 📦 Clean Python project structure
+- 📦 Clean project structure
 
 ## Project Structure
 
